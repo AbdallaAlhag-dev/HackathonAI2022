@@ -1,8 +1,8 @@
 #Lyrics-Generator
 Lyrics Generator using Python for SDSU Hackathon Project
 
-
-#https://docs.google.com/presentation/d/1HIBejn-CPE2gAp86CwmJJ_RZpVM85VdLsOqW4qwR57w/edit#slide=id.g119284c3398_0_0
+Powerpoint Presentation
+https://docs.google.com/presentation/d/1HIBejn-CPE2gAp86CwmJJ_RZpVM85VdLsOqW4qwR57w/edit#slide=id.g119284c3398_0_0
 
 **Dependencies:**
 - lyricsgenius
